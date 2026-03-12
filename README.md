@@ -10,10 +10,15 @@ The platform converts raw cyber threat information into clear visual insights us
 This project emphasizes:
 
 Cyber Threat Data Visualization
+
 Analytical Dashboard Design
+
 Visual Representation of Security Incidents
+
 Pattern Recognition through Interactive Charts
+
 Structured Threat Data Interpretation
+
 ## 🚀 Core Features
 ### 🔴 Threat Data Monitoring Dashboard
 Visual representation of incoming and processed threat information.
