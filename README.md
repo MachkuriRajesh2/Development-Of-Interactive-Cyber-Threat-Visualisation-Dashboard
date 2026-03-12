@@ -9,15 +9,15 @@ The platform converts raw cyber threat information into clear visual insights us
 ## 🎯 Project Focus
 This project emphasizes:
 
-Cyber Threat Data Visualization
+1.Cyber Threat Data Visualization
 
-Analytical Dashboard Design
+2.Analytical Dashboard Design
 
-Visual Representation of Security Incidents
+3.Visual Representation of Security Incidents
 
-Pattern Recognition through Interactive Charts
+4.Pattern Recognition through Interactive Charts
 
-Structured Threat Data Interpretation
+5.Structured Threat Data Interpretation
 
 ## 🚀 Core Features
 #### 🔴 Threat Data Monitoring Dashboard
@@ -50,5 +50,8 @@ MongoDB
 ### 🧠 Data Processing Layer
 Python (for threat data analysis and transformation)
 ## ⚙ Installation & Setup
+
+
+
 1️⃣ Clone the Repository
 git hub  https://github.com/MachkuriRajesh2/Development-Of-Interactive-Cyber-Threat-Visualisation-Dashboard
