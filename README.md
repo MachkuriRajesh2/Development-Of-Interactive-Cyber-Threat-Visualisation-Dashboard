@@ -45,5 +45,4 @@ MongoDB
 Python (for threat data analysis and transformation)
 ⚙ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/ThoulathIrfana/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard.git
-cd Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
+git hub  https://github.com/MachkuriRajesh2/Development-Of-Interactive-Cyber-Threat-Visualisation-Dashboard
