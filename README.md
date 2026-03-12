@@ -20,22 +20,22 @@ Pattern Recognition through Interactive Charts
 Structured Threat Data Interpretation
 
 ## 🚀 Core Features
-### 🔴 Threat Data Monitoring Dashboard
+#### 🔴 Threat Data Monitoring Dashboard
 Visual representation of incoming and processed threat information.
 
-### 📊 Interactive Charts & Graphs
+#### 📊 Interactive Charts & Graphs
 Dynamic visual components for analyzing trends and attack patterns.
 
-### 🌍 Geographical Threat Mapping
+#### 🌍 Geographical Threat Mapping
 Map-based visualization of threat origin and distribution.
 
-### 📝 Incident Data Tracking
+#### 📝 Incident Data Tracking
 Organized display of recorded security incidents.
 
-### 🔐 Role-Based Access View
+#### 🔐 Role-Based Access View
 Controlled dashboard access based on user roles.
 
-### 🤖 Python-based Data Processing
+#### 🤖 Python-based Data Processing
 Threat dataset processing and analysis for meaningful visualization.
 
 ## 🛠 Technology Stack
